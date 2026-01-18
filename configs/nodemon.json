@@ -1,0 +1,15 @@
+{
+  "watch": ["src"],
+  "ext": "ts,json,js",
+  "ignore": ["src/**/*.spec.ts", "src/**/*.test.ts", "src/**/*.e2e.ts", "node_modules/**"],
+  "exec": "tsx ./src/index.ts",
+  "env": {
+    "MODE": "development"
+  },
+  "signal": "SIGHUP",
+  "verbose": false,
+  "stdin": false,
+  "restartable": "rs",
+  "colors": true,
+  "quiet": true
+}
