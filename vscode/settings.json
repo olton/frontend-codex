@@ -1,0 +1,118 @@
+{
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.chat.newWorkspace.useContext7": true,
+    "chat.mcp.serverSampling": {},
+    "chat.mcp.autostart": "newAndOutdated",
+    "workbench.startupEditor": "none",
+    "chat.agent.thinkingStyle": "collapsed",
+    "explorer.compactFolders": false,
+    "workbench.tree.indent": 20,
+    "workbench.tree.renderIndentGuides": "always",
+    "files.associations": {
+        "*.tpl": "ftl"
+    },
+    "editor.stickyScroll.enabled": false,
+    "workbench.colorTheme": "Darcula Theme from IntelliJ",
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "terminal.integrated.accessibleViewPreserveCursorPosition": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.middleClickBehavior": "paste",
+    "terminal.integrated.mouseWheelZoom": true,
+    "editor.tabSize": 2,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "files.eol": "\n",
+    "cSpell.language": "en,uk",
+    "git.confirmSync": false,
+    "files.autoSave": "onWindowChange",
+    "accessibility.verbosity.terminal": false,
+    "accessibility.hideAccessibleView": true,
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "prettier.experimentalTernaries": true,
+    "prettier.printWidth": 100,
+    "prettier.quoteProps": "consistent",
+    "prettier.singleAttributePerLine": true,
+    "prettier.singleQuote": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.requireConfig": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "i18n-ally.localesPaths": ["frontend-nuxt/src/locales"],
+    "i18n-ally.keystyle": "nested",
+    "i18n-ally.sourceLanguage": "en",
+    "i18n-ally.displayLanguage": "uk",
+    "i18n-ally.enabledFrameworks": ["vue"],
+    "i18n-ally.enabledParsers": ["json"],
+    "i18n-ally.pathMatcher": "{locale}.json",
+    "i18n-ally.namespace": true,
+    "editor.tabCompletion": "onlySnippets",
+    "terminal.integrated.stickyScroll.enabled": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "[vue]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.localEchoExcludePrograms": [
+        "vim",
+        "vi",
+        "nano",
+        "tmux",
+        "edit"
+    ],
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', Consolas, 'Courier New', monospace",
+    "terminal.integrated.autoReplies": {
+        "Terminate batch job (Y/N)": "Y\r"
+    },
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "workbench.editor.enablePreview": false,
+    "chat.useAgentSkills": true,
+    "scm.repositories.explorer": true,
+    "scm.repositories.selectionMode": "single",
+    "debug.breakpointsView.presentation": "tree",
+    "chat.viewSessions.orientation": "stacked",
+    "cSpell.userWords": [
+        "metroui"
+    ],
+    "projectManager.groupList": true,
+    "projectManager.showParentFolderInfoOnDuplicates": true,
+    "projectManager.git.baseFolders": [
+        "c:\\Users\\pimenov_s\\Projects\\"
+    ],
+    "projectManager.tags": [
+        "Personal",
+        "Work",
+        "Important",
+        "High Priority",
+        "Low Priority"
+    ],
+    "projectManager.git.ignoredFolders": [
+        "node_modules",
+        "out",
+        "typings",
+        "test",
+        ".haxelib",
+        "dist",
+        "build"
+    ],
+    "projectManager.vscode.baseFolders": [
+        "c:\\Users\\pimenov_s\\Projects\\"
+    ],
+    "projectManager.vscode.ignoredFolders": [
+        "node_modules",
+        "out",
+        "typings",
+        "test",
+        "dist",
+        "build"
+    ],
+    "chat.editing.confirmEditRequestRemoval": false
+}
